@@ -1,0 +1,96 @@
+# Privacy Policy for Moon Bot
+
+**Last Updated: April 26, 2024**
+
+## 1. Information We Collect
+
+### 1.1 Automatically Collected Data
+When you interact with Moon Bot, we may collect:
+- Discord User IDs
+- Server IDs
+- Channel IDs
+- Message content (only when explicitly using bot commands)
+- Command usage timestamps
+
+### 1.2 Stored Data
+The following data is stored in our database:
+- User IDs for moderation purposes (bans, blocks)
+- Server configurations (channel settings)
+- Temporary message content (auto-deleted after 24 hours)
+- Command usage logs for debugging
+
+## 2. How We Use Your Data
+
+We use collected data to:
+- Provide bot functionality
+- Enforce moderation actions
+- Maintain service quality
+- Debug and improve the bot
+- Prevent abuse and spam
+
+## 3. Data Storage & Security
+
+- **Storage**: Data is stored securely on encrypted servers
+- **Encryption**: All data is encrypted in transit and at rest
+- **Access**: Only bot developers have database access
+- **Retention**: Temporary data is automatically purged after 24 hours
+- **Location**: Data is stored in secure data centers
+
+## 4. Data Sharing
+
+We do NOT:
+- Sell your data to third parties
+- Share data with advertisers
+- Use data for marketing purposes
+- Track users across platforms
+
+## 5. Data Retention
+
+| Data Type | Retention Period |
+|-----------|-----------------|
+| Messages | 24 hours |
+| User Blocks | Until removed by user |
+| Ban Records | Until ban expires or is removed |
+| Server Settings | Until changed or bot leaves server |
+| Logs | 30 days maximum |
+
+## 6. Your Rights
+
+You have the right to:
+- Request data deletion by contacting a bot developer
+- Unblock users at any time
+- Appeal moderation actions
+- Leave servers where the bot is present
+- Request your data export
+
+## 7. Children's Privacy
+
+Moon Bot is not intended for users under 13 years of age. We do not knowingly collect data from children under 13.
+
+## 8. Third-Party Services
+
+We use:
+- Cloud hosting infrastructure
+- Database management systems
+- Discord API for bot functionality
+
+Each service has its own privacy policy.
+
+## 9. Changes to Privacy Policy
+
+We reserve the right to update this policy. Continued use of the Bot after changes constitutes acceptance.
+
+## 10. Contact
+
+For privacy concerns, please reach out through:
+- Discord Support Server (in making)
+- Direct message to bot developers (shu920 / lazymoon01)
+
+## 11. Data Deletion
+
+To request complete data deletion:
+1. Leave all servers with Moon Bot
+2. Contact a bot developer
+3. Data will be removed within 48 hours
+
+By using Moon Bot, you agree to this privacy policy.
